@@ -11,7 +11,7 @@
 
 **A cutting-edge machine learning application that analyzes and predicts AI's impact on job roles across industries**
 
-[🚀 Live Demo](#) • [📊 Notebooks](./notebooks) • [📖 Documentation](#documentation)
+[🚀 Live Demo](https://global-ai-job-impact-yabjgxj49kuclqvpjme2h6.streamlit.app) • [📊 Notebooks](./notebooks) • [📖 Documentation](#documentation)
 
 ---
 
