@@ -9,6 +9,12 @@
 [![CatBoost](https://img.shields.io/badge/CatBoost-FFD700?style=for-the-badge&logo=catboost&logoColor=black)](https://catboost.ai)
 [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com)
 
+<br>
+
+### 🌟 **[👉 TRY THE LIVE APP HERE!](https://global-ai-job-impact-yabjgxj49kuclqvpjme2h6.streamlit.app)** 🌟
+
+<br>
+
 **A cutting-edge machine learning application that analyzes and predicts AI's impact on job roles across industries**
 
 [🚀 Live Demo](https://global-ai-job-impact-yabjgxj49kuclqvpjme2h6.streamlit.app) • [📊 Notebooks](./notebooks) • [📖 Documentation](#documentation)
